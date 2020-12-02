@@ -1,5 +1,10 @@
 /* Basislayout */
 
+/* specifieke stijlen */
+
+
+/* Basislayout */
+
 html, body {
     height: 100%;
     padding: 0;
@@ -7,6 +12,7 @@ html, body {
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
+    font-size: 12,5pt;
 }
 
 
@@ -23,7 +29,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: black;
     text-align: center;
 }
 
@@ -86,4 +92,12 @@ nav li a.active {
 
 
 
+img.poster {
+    float: right;
+    margin-right: 25px;
+}
 
+img.gorgu {
+    float: left;
+    margin-right: 25px;
+}
