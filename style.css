@@ -8,7 +8,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: rgb(245, 250, 171);  
     
     color: #303030;
     font: Verdana, Arial, Sans-Serif;
@@ -66,7 +66,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #dddddd;
+    background-color: #531e1e;
     overflow: hidden;
 }
 
@@ -87,17 +87,153 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: rgb(95, 170, 199);
 }
 
 
 
-img.poster {
-    float: right;
+img.Mandalorian {
+    float: left;
     margin-right: 25px;
 }
 
 img.gorgu {
+    float: left;
+    margin-right: 25px;
+}
+
+img.CaraDune {
+    float: left;
+    margin-right: 25px;
+}
+
+img.Greef {
+    float: left;
+    margin-right: 25px;
+}
+
+img.Moff {
+    float: left;
+    margin-right: 25px;
+}
+
+img.Boba {
+    float: left;
+    margin-right: 25px;
+}
+
+img.Poster1 {
+    float: left;
+    margin-right: 25px;
+}
+
+
+img.Chapter1 {
+    float: left;
+    margin-right: 25px;
+}
+
+
+img.Chapter2 {
+    float: left;
+    margin-right: 25px;
+}
+
+
+img.Chapter3 {
+    float: left;
+    margin-right: 25px;
+}
+
+
+
+img.Chapter4 {
+    float: left;
+    margin-right: 25px;
+}
+
+img.Chapter5 {
+    float: left;
+    margin-right: 25px;
+}
+
+
+img.Chapter6 {
+    float: left;
+    margin-right: 25px;
+}
+
+
+img.Chapter7 {
+    float: left;
+    margin-right: 25px;
+}
+
+
+img.Chapter8 {
+    float: left;
+    margin-right: 25px;
+}
+
+
+img.Chapter9 {
+    float: left;
+    margin-right: 25px;
+}
+
+
+img.Chapter10 {
+    float: left;
+    margin-right: 25px;
+}
+
+img.Chapter11 {
+    float: left;
+    margin-right: 25px;
+}
+
+img.Chapter12 {
+    float: left;
+    margin-right: 25px;
+}
+
+img.Chapter13  {
+    float: left;
+    margin-right: 25px;
+}
+
+
+img.Chapter14 {
+    float: left;
+    margin-right: 25px;
+}
+img.Chapter15 {
+    float: left;
+    margin-right: 25px;
+}
+img.Chapter16 {
+    float: left;
+    margin-right: 25px;
+}
+
+img.Pedro {
+    float: left;
+    margin-right: 25px;
+}
+
+img.Giancarlo {
+    float: left;
+    margin-right: 25px;
+}
+img.Gina {
+    float: left;
+    margin-right: 25px;
+}
+img.Carl {
+    float: left;
+    margin-right: 25px;
+}
+img.Temuera {
     float: left;
     margin-right: 25px;
 }
